@@ -1,2 +1,1 @@
-print("test")
-print("New line")
+print("tst")
